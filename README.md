@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=nextSLN&color=green)
+![](https://komarev.com/ghpvc/?username=nextSLN&abbreviated=true)
